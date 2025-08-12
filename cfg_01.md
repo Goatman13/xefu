@@ -1,6 +1,6 @@
 ## Overview
-General config with many options, not bounded to any typical part of emulation. Config is a 32 bit big endian bitfield. Instead of describing bits as 0..31 or 1 << x, I decided to use raw values here for better understanding.
-When we want activate more than one field at once, just add values for them. For example want field 0x02000000 and field 0x00000001 active? Use value 0x02000001.
+General config with many options. Config is a 32 bit big endian bitfield. Instead of describing bits as 0..31 or 1 << x, I decided to use raw values here for better understanding.
+When we want activate more than one field at once, just add values for them. For example want field 0x02000000 and field 0x00000001 active? Use value 0x02000001. Just remember that values here are hexadecimal, 0x00000004 + 0x00000008 = 0x0000000C, not 0x00000012. Windows calculator in programmer hex mode might be helpful here for newcommers.
 
 ## Values
 * 0x00000001 = emu quit/reset related. When enabled XamLoaderSetLaunchData(data, 0x3FC) is called on exit with data[0] = 2 and data[1] = 6
