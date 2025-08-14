@@ -6,4 +6,4 @@ When we want activate more than one field at once, just add values for them. For
 * 0x00000004 = skip D3DQuery_Issue and D3DQuery_GetData
 * 0x00000008 = arithmetically "or" 0x100 to 4th param for function D3D::CMicrocodeBuilder::Microcode::DeclareInterpolatorSemantic (few other dependencies need to be fullfiled to hit that code path)
 * 0x00000100 = interlaced/progressive mode related
-* 0x00000200 = widescreen mode related
+* 0x00000200 = Set widescreen mode
