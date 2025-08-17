@@ -10,5 +10,5 @@ When we want activate more than one field at once, just add values for them. For
 * 0x00000040 = if "something" then force secondary dispatch (whatever it means...)
 * 0x00010000 = enable cfg6, without it cfg6 is not used regardless of its value.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
-* 0x00400000 = alter cfg9/cfg10 behavior (require 0x00800000 to be active) - **wrong, check legacy of kain**
-* 0x00800000 = enable cfg9/cfg10
+* 0x00400000 = unknown, seems to alter cfg9/cfg10 behavior
+* 0x00800000 = unknown, cfg9/cfg10 related
