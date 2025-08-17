@@ -7,7 +7,7 @@ When we want activate more than one field at once, just add values for them. For
 * 0x00000004 = unknown, x86 pipe/ x86 rec related
 * 0x00000008 = enable cfg4, without it cfg4 is not used regardless of its value.
 * 0x00000010 = enable cfg5, without it cfg5 is not used regardless of its value.
-* 0x00000040 = if "something" then force secondary dispatch (whatever it means...)
+* 0x00000040 = force secondary dispatch
 * 0x00010000 = enable cfg6, without it cfg6 is not used regardless of its value.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
 * 0x00400000 = unknown, seems to alter cfg9/cfg10 behavior
