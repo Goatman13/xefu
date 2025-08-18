@@ -1,0 +1,608 @@
+Starting retail full games config list:
+
+
+The Simpsons Road Rage [ID: 45410013, EA-019]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82006F58
+  CFG11: 0x00000000 CFG12: 0x00000000
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x1F0FFFFF | 0x00010000
+
+Drake [ID: 4D4A000B, MJ-011]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00100020
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Halo [ID: 4D530004, MS-004]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0x3BCB335F (2001-10-15 19:05:03)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0x00000001
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x820072C8
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x000872D0 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Halo [ID: 4D530004, MS-004]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0x00000008
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x820072C8
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x000872D0 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Halo [ID: 4D530004, MS-004]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0x00000009
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x820072C8
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x000872D0 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Halo [ID: 4D530004, MS-004]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0x00000006
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x820072E0
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x0009FB60 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Halo [ID: 4D530004, MS-004]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0x3C57D336 (2002-01-30 11:04:22)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0x00000001
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x820072F8
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x00087A70 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Amped Freestyle Snowboarding [ID: 4D530005, MS-005]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00100020
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Fable [ID: 4D53000D, MS-013]
+ Additional file checks:
+  Size of Image:          0x00951EE0
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0x00000000
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00070020
+  CFG2:  0x00001004
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x820AEC08
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000004 CFG12: 0x82007470
+   CONFIG 11/12 data:
+    count: 0x00000004
+    config12 data:  0x000FB790 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x82007440
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0x07000000
+    config12 data:  0x000FB710 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x8200744C
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0x08000000
+    config12 data:  0x000FB6C0 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x82007458
+     subdata count: 0x00000001
+     subdata:       0x00000009 | 0x00000002 | 0x09000000
+    config12 data:  0x0005F220 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x82007464
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0xE0000000
+
+Crimson Skies: High Road to Revenge [ID: 4D530021, MS-033]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00100020
+  CFG2:  0x00000040
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Unknown Title [ID: 4D53002D, MS-045]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x000001A0
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82006ED8
+  CFG11: 0x00000000 CFG12: 0x00000000
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x1F0FFFFF | 0x00000000
+
+Unknown Title [ID: 4D530057, MS-087]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x82007310
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x000A1450 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Unknown Title [ID: 4D530058, MS-088]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000040
+  CFG2:  0x00000000
+  CFG3:  0x00000037
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82007340
+  CFG11: 0x00000001 CFG12: 0x82007328
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x170FFBFF | 0x00000004
+   CONFIG 11/12 data:
+    count: 0x00000001
+    config12 data:  0x000A1450 | 0x00000001 | 0x1F0FFBFF | 0x00000000 | 0x00000000 | 0x00000000
+
+Halo 2 [ID: 4D530064, MS-100]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000148
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Forza Motorsport [ID: 4D53006E, MS-110]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000A00
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Halo 2 Multiplayer Map Pack [ID: 4D5380CD, MS-32973]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000000
+  CFG3:  0x00000016
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Fable: The Lost Chapters [ID: 4D5300D1, MS-209]
+ Additional file checks:
+  Size of Image:          0x009CAA00
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0x00000000
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00070020
+  CFG2:  0x00005004
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x820AEC08
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000004 CFG12: 0x82007608
+   CONFIG 11/12 data:
+    count: 0x00000004
+    config12 data:  0x0004B510 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x820075D8
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0x07000000
+    config12 data:  0x0004B490 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x820075E4
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0x08000000
+    config12 data:  0x0004B440 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x820075F0
+     subdata count: 0x00000001
+     subdata:       0x00000009 | 0x00000002 | 0x09000000
+    config12 data:  0x00149460 | 0x00000012 | 0x1F0FFFFF | 0x00000000 | 0x00000001 | 0x820075FC
+     subdata count: 0x00000001
+     subdata:       0x00000000 | 0x00000001 | 0xE0000000
+
+Mortal Kombat Deception Kollectors Edition [ID: 4D570019, MW-025]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000002
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Unknown Title [ID: 4D570023, MW-035]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000002
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Dead or Alive 3 [ID: 54430001, TC-001]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x000001A0
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82006ED8
+  CFG11: 0x00000000 CFG12: 0x00000000
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x1F0FFFFF | 0x00000000
+
+Max Payne [ID: 54540003, TT-003]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000080
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Grand Theft Auto: Vice City [ID: 5454000F, TT-015]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000100
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Unknown Title [ID: 54540073, TT-115]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000100
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Sid Meier's Pirates! [ID: 5454008F, TT-143]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00100020
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000001 CFG10: 0x82006F58
+  CFG11: 0x00000000 CFG12: 0x00000000
+   CONFIG 9/10 data:
+    count: 0x00000001
+    data:  0x82001BD4 (.text) | 0x1F0FFFFF | 0x1F0FFFFF | 0x00010000
+
+Tom Clancy's Rainbow Six 3 [ID: 55530013, US-019]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00200004
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Starting cdx.exe and xdemos_final.exe config list:
+
+Unknown Title [ID: FFFFFFFF, ÿÿ-65535]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000001
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Halo 2 Multiplayer Map Pack [ID: 4D5380CD, MS-32973]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000000
+  CFG3:  0x00000016
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Forza Motorsport [ID: 4D53006E, MS-110]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
+
+Sega GT 2002 [ID: 53450003, SE-003]
+ Additional file checks:
+  Size of Image:          0xFFFFFFFF (Any)
+  Certificate TimeDate:   0xFFFFFFFF (Any)
+  Certificate DiscNumber: 0xFFFFFFFF (Any)
+  Certificate Version:    0xFFFFFFFF (Any)
+  Alternative XBE file:   0x00000000 (None)
+ CONFIG:
+  CFG1:  0x00000000
+  CFG2:  0x00000000
+  CFG3:  0x00000036
+  CFG4:  0x00000000
+  CFG5:  0x00000000
+  CFG6:  0x00000000
+  CFG7:  0x00000000 CFG8:  0x00000000
+  CFG9:  0x00000000 CFG10: 0x00000000
+  CFG11: 0x00000000 CFG12: 0x00000000
