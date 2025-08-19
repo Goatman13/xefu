@@ -7,7 +7,7 @@ File is simple binary named after game id. For example Kung Fu Chaos config name
 Structure is very simple, you can split it into 34 4 bytes fields where first 14 fields are cfg1 - cfg14 values, and later 20 fields are for data for more advanced cfg8/10/12/14 commands. Data is big endian.
 ![cust](https://github.com/user-attachments/assets/f1dd4d28-3a12-4a11-b87b-7b456e2e642b)
 
-Example config for Kung Fu Chaos with cfg1 set to 02000000, cfg3 set to 000000D8, cfg7 set to 4 and cfg8 set to pointer 82168CC8 (0x38 in our configs, check bugs/limitations tab) with additional data. Other cfg values are set to 0.
+Example config for Kung Fu Chaos with cfg1 set to 02000000, cfg3 set to 000000D8, cfg7 set to 4 and cfg8 set to pointer 82168CC8 with additional data (0x38 in our configs, check bugs/limitations tab). Other cfg values are set to 0.
 ![kfc](https://github.com/user-attachments/assets/851bc6dd-138f-46a5-93f8-dd58611dc683)
 
 ## Bugs / Limitations
