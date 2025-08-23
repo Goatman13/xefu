@@ -5,7 +5,7 @@ This repository documents the internal workings of the Xenon Fusion (XeFu) emula
 cfgXX.md files contain info about the specified cfg.
 
 ## custom_cfg.md
-General info about config implementation.
+General info about how to create custom config files and how they are implemented.
 
 ## txt_config_dumps
 Configs from officially released xefu files dumped in txt form. For learning purposes.
