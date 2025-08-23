@@ -17,5 +17,5 @@ Enabled cfg6. Only supported value for cfg6 is used here, no need to change anyt
 Enabled cfg13/cfg14 for single entry. Replace 3 x 4 bytes entries at 0x3C/0x40/0x44 to change ".text" segment recompilation options. Change .text string at 0x48 if you target different segment.
 ### cfg_base_default_plus_cfg13_and_cfg_14
 Enabled cfg13/cfg14 for single entry. Replace 3 x 4 bytes entries at 0x38/0x3C/0x40 to memory addresses to make config for your game.
-### 4D530031
-This config is backport of Kung Fu Chaos config, just to show how it changes. 
+### 4D530031.bin
+This config is a backport of the official Kung Fu Chaos config from xefutitle2019, just to show how it changes. 
