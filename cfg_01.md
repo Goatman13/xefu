@@ -3,7 +3,7 @@ General config with many options. The config is a 32-bit big endian bitfield. In
 When we want to activate more than one field at a time, just add the values for them. For example, want field 0x02000000 and field 0x00000001 active? Use value 0x02000001. Just remember that values here are hexadecimal, 0x00000004 + 0x00000008 = 0x0000000C, not 0x00000012. Windows calculator in programmer hex mode might be helpful here for newcomers.
 
 ## Values
-* 0x00000001 = Emulator quit/reset related. When enabled, XamLoaderSetLaunchData(data, 0x3FC) is called on exit with data[0] = 2 and data[1] = 6
+* 0x00000001 = Emulator quit/reset related. When enabled, XamLoaderSetLaunchData(data, 0x3FC) is called on exit with data.source = 2(SOURCE_XBOX) and data.reason = 6
 * 0x00000002 = Start emulation with cr1:lt = 0 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00000004 = Unknown, x86 pipe/ x86 rec related
 * 0x00000008 = Enable cfg4, without it cfg4 is not used regardless of its value.
