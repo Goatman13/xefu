@@ -4,10 +4,12 @@ When we want to activate more than one field at a time, just add the values for 
 
 ## Values
 * 0x00000001 = Emulator quit/reset related. When enabled, XamLoaderSetLaunchData(data, 0x3FC) is called on exit with data[0] = 2 and data[1] = 6
+* 0x00000002 = Start emulation with cr1:lt = 0 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00000004 = Unknown, x86 pipe/ x86 rec related
 * 0x00000008 = Enable cfg4, without it cfg4 is not used regardless of its value.
 * 0x00000010 = Enable cfg5, without it cfg5 is not used regardless of its value.
-* 0x00000040 = Force secondary dispatch
+* 0x00000040 = Force secondary dispatch, also start emulation with cr1:eq = 1 (cr1 decides about dispatcher behavior when emulation starts).
+* 0x00000080 = Start emulation with cr1:gt = 1 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00010000 = Enable cfg6, without it cfg6 is not used regardless of its value.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
 * 0x00400000 = Unknown, seems to alter cfg9/cfg10 behavior
