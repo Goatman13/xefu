@@ -1,6 +1,7 @@
 ## Custom Configs
 * 45410076.bin - Burnout Revenge; uses Burnout 3: Takedown config, fixes freeze at first race
 * 5553003B.bin - Prince of Persia; uses Splinter Cell: Chaos Theory config, fixes black screen
+* 42560002.bin - Chicken Little; fixes crash after Disney logo
 
 &nbsp;
 
