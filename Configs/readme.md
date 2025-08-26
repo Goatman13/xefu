@@ -1,7 +1,9 @@
 ## Custom Configs
-* 45410076.bin - Burnout Revenge; uses Burnout 3: Takedown config, fixes freeze at first race
+* 45410076.bin - Burnout Revenge; uses Burnout 3: Takedown config, fixes freeze at first race; credit to JustAnyone#9310
 * 5553003B.bin - Prince of Persia; uses Splinter Cell: Chaos Theory config, fixes black screen
-* 42560002.bin - Chicken Little; fixes crash after Disney logo
+* 42560002.bin - Chicken Little; fixes crash after Disney logo; credit to cruz21579
+* 545100F4.bin - Tak: The Great Juju Challenge; fixes crash during intro sequences; credit to cruz21579
+* 5451008B.bin - Tak 2: The Staff of Dreams; fixes crash during intro sequences; credit to cruz21579
 
 &nbsp;
 
