@@ -16,3 +16,4 @@ When we want to activate more than one field at a time, just add the values for 
 * 0x00800000 = Unknown, cfg9/cfg10 related
 * 0x02000000 = Enable Altivec "java mode" (set vscr bit NJ [bit111] to 0), basically makes Altivec IEEE compilant. It's very important for this bit to be always enabled. No idea why there is even an option to disable it for an x86 emulator...
 * 0x04000000 = Set Floating Point operations to use round to zero mode instead of round to nearest (set RN bits in FPSCR to 01). Affects only operations done on fpu registers, not altivec.
+* 0x08000000 = Use 32 bit ppc fpu math instead of doubles for selected x87 opcodes. Eg. Use ppc fadds instead of ppc fadd during x87 fadd recompilation.
