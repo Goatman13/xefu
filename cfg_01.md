@@ -12,8 +12,16 @@ When we want to activate more than one field at a time, just add the values for 
 * 0x00000080 = Start emulation with cr1:gt = 1 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00010000 = Enable cfg6, without it cfg6 is not used regardless of its value.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
+* 0x00100000 = Skip specific data sequence.
 * 0x00400000 = Unknown, seems to alter cfg9/cfg10 behavior
 * 0x00800000 = Unknown, cfg9/cfg10 related
 * 0x02000000 = Enable Altivec "java mode" (set vscr bit NJ [bit111] to 0), basically makes Altivec IEEE compilant. It's very important for this bit to be always enabled. No idea why there is even an option to disable it for an x86 emulator...
 * 0x04000000 = Set Floating Point operations to use round to zero mode instead of round to nearest (set RN bits in FPSCR to 01). Affects only operations done on fpu registers, not altivec.
 * 0x08000000 = Use 32 bit ppc fpu math instead of doubles for selected x87 opcodes. Eg. Use ppc fadds instead of ppc fadd during x87 fadd recompilation.
+
+## More Info
+### 0x00100000
+Skip recompilation of aligment/data hex sequence related to exception handling.<br>
+Emulator search for this hex sequence: `56 43 32 30 58 43 30 30 55`. Eventually preceded by byte(s) 0x00, 0x90, or 0xCC. Then skip all that and do not treat it as a valid x86 code.
+
+This "code" seems to be misinterpreted string "VC20XC00U". While it can be found in many games, MS used this command only for few of them (Amped, Soul Calibur 2, Crimson Skies: High Road to Revenge, few more). It's unclear why only those games required it.
