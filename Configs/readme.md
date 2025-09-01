@@ -1,5 +1,6 @@
 ## Custom Configs
 * 45410076.bin - Burnout Revenge; uses "Burnout 3: Takedown" config, fixes freeze at first race; credit to JustAnyone#9310
+* 4947007A.bin - Dragon Ball Z: Sags; uses "Sega GT 2002 + JSRF: Jet Set Radio Future" config, fixes freeze at Xbox logo credit to cruz21579
 * 5553003B.bin - Prince of Persia; uses "Splinter Cell: Chaos Theory" config, fixes black screen
 * 42560002.bin - Chicken Little; uses "Sega GT 2002 + JSRF: Jet Set Radio Future" config, fixes crash after Disney logo; credit to cruz21579
 * 545100F4.bin - Tak: The Great Juju Challenge; uses "Sega GT 2002 + JSRF: Jet Set Radio Future" config, fixes crash during intro sequences; credit to cruz21579
