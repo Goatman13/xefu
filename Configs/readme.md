@@ -8,7 +8,7 @@ These are configs created or copied from another game.
 * 545100F4.bin - Tak: The Great Juju Challenge; uses "Sega GT 2002 + JSRF: Jet Set Radio Future" config, fixes crash during intro sequences; credit to cruz21579
 * 5451008B.bin - Tak 2: The Staff of Dreams; uses "Mortal Kombat: Deception" config, fixes crash during intro sequences; credit to cruz21579
 * 54510106.bin - Destroy All Humans! 2; uses the Serious Sam config, fixes freeze shortly after starting the game; credit to cruz21579
-* 9E115330.bin - UnleashX; uses Halo 2 config, fixes issues seen in later xefu versions
+* 9E115330.bin - UnleashX; uses Halo 2 config, fixes issues seen in later xefu versions; credit to SoLjA_RGH
 * 4D530017.bin - MechAssault; uses Halo 2 config, fixes crash at Xbox logo; credit to SoLjA_RGH
 
 &nbsp;
