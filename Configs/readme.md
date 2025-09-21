@@ -10,13 +10,19 @@ These are configs created or copied from another game.
 * 54510106.bin - Destroy All Humans! 2; uses the Serious Sam config, fixes freeze shortly after starting the game; credit to cruz21579
 * 9E115330.bin - UnleashX; uses Halo 2 config, fixes issues seen in later xefu versions; credit to SoLjA_RGH
 * 4D530017.bin - MechAssault; uses Halo 2 config, fixes crash at Xbox logo; credit to SoLjA_RGH
-* 41560003.bin - Street Hoops; uses Halo: Combat Evolved config, fixes freezing
-* 4947001F.bin - Mission Impossible: Operation Suma; uses Psychonauts Config config, fixes flashing video cutscenes
-* 4947003E.bin - Terminator 3: The Redemption; uses Psychonauts Config, fixes immediate crashing
-* 424D0006.bin - Carmen Sandiego; uses Mortal Kombat Deadly config, fixes Xbox logo scrash
-* 4C410009.bin - Star Wars Jedi Knight 2 (NTSC), fixes main menu glitch and game speed
-* 41560015.bin - Star Wars Jedi Knight 2 (PAL), fixes main menu glitch and game speed
-* 55530001.bin - Batman Vengeance, uses Psychonauts config, fixes Xbox logo crash but controller does not work (may work with Rock Candy controller?)
+* 41560003.bin - Street Hoops; uses Halo: Combat Evolved config, fixes freezing; credit to Elko992
+* 4947001F.bin - Mission Impossible: Operation Suma; uses Psychonauts Config config, fixes flashing video cutscenes; credit to Elko992
+* 4947003E.bin - Terminator 3: The Redemption; uses Psychonauts Config, fixes immediate crashing; credit to Elko992
+* 424D0006.bin - Carmen Sandiego; uses Mortal Kombat Deadly config, fixes Xbox logo scrash; credit to Elko992
+* 4C410009.bin - Star Wars Jedi Knight 2 (NTSC); fixes main menu glitch and game speed; credit to Elko992
+* 41560015.bin - Star Wars Jedi Knight 2 (PAL); fixes main menu glitch and game speed; credit to Elko992
+* 55530001.bin - Batman Vengeance; uses Psychonauts config, fixes Xbox logo crash but controller does not work (may work with Rock Candy controller?); credit to Elko992
+* 4B420001.bin - Batman: Dark Tomorrow; uses Call of Duty 3 config, fixes game speed; credit to Elko992
+* 5454000B.bin - MTV Celebrity Deathmatch; uses Call of Duty 3 config, fixes 3D models, speed issues, and freeze; credit to Elko992
+* 45410028.bin - Need for Speed: Hot Pursuit 2; uses Brute Force config, fixes black screen; credit to Elko992
+* 4156004F.bin - American Chopper 2: Full Throttle; uses Brute Force config, fixes black screen; credit to Elko992
+* 534300F7.bin - Urban Chaos: Riot Response; uses Psychonauts config, fixes XBox logo crash; credit to Elko992
+* 53450084.bin - Spartan: Total Warrior (PAL); uses Psychonauts config, fixes graphics issues and fatal crash
 
 &nbsp;
 
