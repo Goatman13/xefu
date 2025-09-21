@@ -13,7 +13,7 @@ These are configs created or copied from another game.
 | 9E115330.bin | UnleashX                           | Halo 2 (4D530064)                           | Fixes issues seen in later xefu versions                               | SoLjA_RGH       |
 | 4D530017.bin | MechAssault                        | Halo 2 (4D530064)                           | Fixes crash at Xbox logo                                               | SoLjA_RGH       |
 | 41560003.bin | Street Hoops                       | Halo: Combat Evolved (4D530004)             | Fixes freezing                                                         | Elko992         |
-| 4947001F.bin | Mission Impossible: Operation Surma | Psychonauts (4D4A0012)                     | Fixes flashing video cutscenes                                         | Elko992         |
+| 4947001F.bin | Mission Impossible: Operation Surma | Psychonauts (4D4A0012)                     | Fixes freeze at loading screen                                         | Elko992         |
 | 4947003E.bin | Terminator 3: The Redemption       | Psychonauts (4D4A0012)                      | Fixes immediate crashing                                               | Elko992         |
 | 424D0006.bin | Carmen Sandiego                    | Mortal Kombat: Deadly Alliance (4D57000C)   | Fixes Xbox logo crash                                                  | Elko992         |
 | 4C410009.bin | Star Wars Jedi Knight 2 (NTSC)     | Call of Duty 3 (4156005D)                   | Fixes main menu glitch and game speed                                  | Elko992         |
