@@ -10,6 +10,13 @@ These are configs created or copied from another game.
 * 54510106.bin - Destroy All Humans! 2; uses the Serious Sam config, fixes freeze shortly after starting the game; credit to cruz21579
 * 9E115330.bin - UnleashX; uses Halo 2 config, fixes issues seen in later xefu versions; credit to SoLjA_RGH
 * 4D530017.bin - MechAssault; uses Halo 2 config, fixes crash at Xbox logo; credit to SoLjA_RGH
+* 41560003.bin - Street Hoops; uses Halo: Combat Evolved config, fixes freezing
+* 4947001F.bin - Mission Impossible: Operation Suma; uses Psychonauts Config config, fixes flashing video cutscenes
+* 4947003E.bin - Terminator 3: The Redemption; uses Psychonauts Config, fixes immediate crashing
+* 424D0006.bin - Carmen Sandiego; uses Mortal Kombat Deadly config, fixes Xbox logo scrash
+* 4C410009.bin - Star Wars Jedi Knight 2 (NTSC), fixes main menu glitch and game speed
+* 41560015.bin - Star Wars Jedi Knight 2 (PAL), fixes main menu glitch and game speed
+* 55530001.bin - Batman Vengeance, uses Psychonauts config, fixes Xbox logo crash but controller does not work (may work with Rock Candy controller?)
 
 &nbsp;
 
