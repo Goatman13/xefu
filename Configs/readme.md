@@ -25,6 +25,9 @@ These are configs created or copied from another game.
 | 4156004F.bin | American Chopper 2: Full Throttle  | Brute Force (4D53001E)                      | Fixes black screen                                                     | Elko992         |
 | 534300F7.bin | Urban Chaos: Riot Response         | Psychonauts (4D4A0012)                      | Fixes Xbox logo crash                                                  | Elko992         |
 | 53450084.bin | Spartan: Total Warrior (PAL)       | Psychonauts (4D4A0012)                      | Fixes graphics issues and fatal crash                                  | Elko992         |
+| 5345008B.bin | Spartan: Total Warrior (NTSC)      | Psychonauts (4D4A0012)                      | Fixes graphics issues and fatal crash                                  | Elko992         |
+| 53410003.bin | Iron Phoenix                       | Psychonauts (4D4A0012)                      | Fixes Xbox logo crash                                                  | Elko992         |
+| 45410042.bin | James Bond 007: Everything or Nothing (PAL) | Call of Duty 3 (4156005D)          | Fixes Xbox logo crash                                                  | Elko992         |
 
 
 &nbsp;
