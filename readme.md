@@ -25,6 +25,8 @@ General info about how to create custom config files to be used with config_load
 ### cfgs_examples
 Configs which can be used as a base for creating new ones. Please keep in mind that most of them have set default values, so they will likely do nothing without editing said values.
 
+&nbsp;
+
 ## Using Custom Configs
 
 ### Xefu Spoofer
