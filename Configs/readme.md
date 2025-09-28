@@ -30,6 +30,8 @@ These are configs created or copied from another game.
 | 4D570002.bin | Arctic Thunder                     | Psychonauts (4D4A0012)                      | Fixes Xbox logo crash                                                  | Elko992         |
 | 4D570005.bin | Area 51                            | Custom config                               | Fixes texture issues, but there is minor lighting issues               | Elko992         |
 | 4947001B.bin | Splashdown                         | Brute Force (4D53001E)                      | Fixes water texture issues                                             | Elko992         |
+| 56550027.bin | Red Ninja: End of Honour           | Call of Duty 3 (4156005D)                   | Fixes crash during gameplay or after first mission                     | Elko992         |
+| 54510003.bin | MX 2002 featuring Ricky Carmichael | Call of Duty 3 (4156005D)                   | Fixes crash at Xbox logo (still ha srandom crashes during races)       | Elko992         |
 
 &nbsp;
 
