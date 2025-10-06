@@ -36,6 +36,7 @@ These are configs created or copied from another game.
 | 4541007D.bin | The Godfather                      | Psychonauts (4D4A0012)                       | Slightly improved framerate, fixes burned-in image on screen           | Elko992         |
 | 4B490002.bin | Shikigami no Shiro II              | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992         |
 | 4541006D.bin | Oddworld: Stranger’s Wrath         | Mortal Kombat: Deception (4D570019) modified | Fixes crash preventing entering levels and text issues                 | Exzedo          |
+| 54540088.bin | Army Men: Major Malfunction        | Custom                                       | Fixes severe texture issues                                            | Elko992         |
 
 &nbsp;
 
