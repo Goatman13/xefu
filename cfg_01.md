@@ -12,6 +12,7 @@ When we want to activate more than one field at a time, just add the values for 
 * 0x00000080 = Start emulation with cr1:gt = 1 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00010000 = Enable cfg6, without it cfg6 is not used regardless of its value.
 * 0x00020000 = Skip PageFrame->Busy.LockCount value update in xb1krnl MmLockUnlockBufferPages function.
+* 0x00040000 = Enable precompiled function FsdxTouchBuffer. This function is used by xb1krnl but can be called from rcompiled code too.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
 * 0x00100000 = Skip specific data sequence.
 * 0x00400000 = Unknown, seems to alter cfg9/cfg10 behavior
@@ -27,3 +28,7 @@ Skip recompilation of aligment/data hex sequence related to exception handling.<
 Emulator search for this hex sequence: `56 43 32 30 58 43 30 30 55`. Eventually preceded by byte(s) 0x00, 0x90, or 0xCC. Then skip all that and do not treat it as a valid x86 code.
 
 This "code" seems to be misinterpreted string "VC20XC00U". While it can be found in many games, MS used this command only for few of them (Amped, Soul Calibur 2, Crimson Skies: High Road to Revenge, few more). It's unclear why only those games required it.
+
+### 0x00040000
+Enable precompiled function FsdxTouchBuffer. This function is used by xb1krnl but can be called from rcompiled code too.<br>
+The enabled function simply touches the requested memory range by loading a byte into void, using 0x1000 byte sized pages in PPC code. This most likely load data into ppc cache or eventually simulates cycles that will be burned during that operation on original xbox.
