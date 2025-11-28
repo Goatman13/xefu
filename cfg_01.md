@@ -11,6 +11,7 @@ When we want to activate more than one field at a time, just add the values for 
 * 0x00000040 = Force secondary dispatch, also start emulation with cr1:eq = 1 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00000080 = Start emulation with cr1:gt = 1 (cr1 decides about dispatcher behavior when emulation starts).
 * 0x00010000 = Enable cfg6, without it cfg6 is not used regardless of its value.
+* 0x00020000 = Skip PageFrame->Busy.LockCount value update in xb1krnl MmLockUnlockBufferPages function.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
 * 0x00100000 = Skip specific data sequence.
 * 0x00400000 = Unknown, seems to alter cfg9/cfg10 behavior
