@@ -15,6 +15,7 @@ When we want to activate more than one field at a time, just add the values for 
 * 0x00040000 = Enable precompiled function FsdxTouchBuffer. This function is used by xb1krnl but can be called from rcompiled code too.
 * 0x00080000 = File system related, when enabled skips precompiled function FsdxMarkBufferDirty.
 * 0x00100000 = Skip specific data sequence.
+* 0x00200000 = When enabled skip injecting vpcext 4, 4 opcode in function DispatchVirtualInitial, jumping directly to DispatchVirtual instead.
 * 0x00400000 = Unknown, seems to alter cfg9/cfg10 behavior
 * 0x00800000 = Unknown, cfg9/cfg10 related
 * 0x02000000 = Enable Altivec "java mode" (set vscr bit NJ [bit111] to 0), basically makes Altivec IEEE compilant. It's very important for this bit to be always enabled. No idea why there is even an option to disable it for an x86 emulator...
