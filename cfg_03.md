@@ -8,4 +8,4 @@ When we want to activate more than one field at a time, just add the values for 
 
 ## More Info
 ### 0x00000001 and 0x00000002
-There’s a bit more to it, but generally those configurations ensure that files opened by NtCreateFile are read/write in synchronous mode. It’s worth noting that despite its name, NtCreateFile is also used for opening existing files.
+There’s a bit more to it, but generally those configurations ensure that files (and devices?) opened by NtCreateFile are read/write in synchronous mode. It’s worth noting that despite its name, NtCreateFile is also used for opening existing files.
