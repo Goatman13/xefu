@@ -28,7 +28,7 @@ These are configs created or copied from another game.
 | 5345008B.bin | Spartan: Total Warrior (NTSC)      | Psychonauts (4D4A0012)                       | Fixes graphics issues and fatal crash                                  | Elko992         |
 | 53410003.bin | Iron Phoenix                       | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992         |
 | 4D570002.bin | Arctic Thunder                     | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992         |
-| 4D570005.bin | Area 51                            | Custom config                                | Fixes texture issues, but there is minor lighting issues               | Elko992         |
+| 4D570005.bin | Area 51                            | Custom                                       | Fixes texture issues, but there is minor lighting issues               | Elko992         |
 | 4947001B.bin | Splashdown                         | Brute Force (4D53001E)                       | Fixes water texture issues                                             | Elko992         |
 | 56550027.bin | Red Ninja: End of Honour           | Call of Duty 3 (4156005D)                    | Fixes crash during gameplay or after first mission                     | Elko992         |
 | 54510003.bin | MX 2002 featuring Ricky Carmichael | Call of Duty 3 (4156005D)                    | Fixes crash at Xbox logo (still has random crashes during races)       | Elko992         |
@@ -38,6 +38,7 @@ These are configs created or copied from another game.
 | 4541006D.bin | Oddworld: Stranger’s Wrath         | Mortal Kombat: Deception (4D570019) modified | Fixes crash preventing entering levels and text issues                 | Exzedo          |
 | 54540088.bin | Army Men: Major Malfunction        | Custom                                       | Fixes severe texture issues                                            | Elko992         |
 | 544D0001.bin | Shrek                              | Psychonauts (4D4A0012)                       | Fixes texture issues and major slowdown (minor slowdown still present) | RollPlayStation |
+| 584C0001.bin | Re-volt (beta)                     | Custom                                       | Fixes graphics issues, enables fullscreen, faster loading times.       | SoLjA_RGH       |
 
 &nbsp;
 
