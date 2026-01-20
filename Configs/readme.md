@@ -41,6 +41,7 @@ These are configs created or copied from another game.
 | 584C0001.bin | Re-volt (beta)                     | Custom                                       | Fixes graphics issues, enables fullscreen, faster loading times        | SoLjA_RGH           |
 | 4947007F.bin | Driver: Parallel Lines             | Custom                                       | Fixes graphical issues                                                 | JLGAMETUBE          |
 | 4D53002A.bin | Midtown Madness 3                  | Custom                                       | Fixes Xbox logo crash                                                  | Elko992             |
+| 534300F9.bin | Commandos: Strike Force            | Custom                                       | Fixes many gameplay issues that prevent mission completion             | Elko992             |
 
 &nbsp;
 
