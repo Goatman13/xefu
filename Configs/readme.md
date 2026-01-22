@@ -42,6 +42,10 @@ These are configs created or copied from another game.
 | 4947007F.bin | Driver: Parallel Lines             | Custom                                       | Fixes graphical issues                                                 | JLGAMETUBE          |
 | 4D53002A.bin | Midtown Madness 3                  | Custom                                       | Fixes Xbox logo crash                                                  | Elko992             |
 | 534300F9.bin | Commandos: Strike Force            | Custom                                       | Fixes many gameplay issues that prevent mission completion             | Elko992             |
+| 534E0005.bin | Metal Slug 4                       | Custom                                       | Fixes texture and freezing issues                                      | Elko992             |
+| 534E0008.bin | Metal Slug 5                       | Custom                                       | Fixes texture and freezing issues                                      | Elko992             |
+| 534E0006.bin | The King of Fighters 2002          | Custom                                       | Fixes texture issues, despite being an officially supported title      | Elko992             |
+| 534E0003.bin | The King of Fighters 2003          | Custom                                       | Fixes texture issues, menus still have issues                          | Elko992             |
 
 &nbsp;
 
