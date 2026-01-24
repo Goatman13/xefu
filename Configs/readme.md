@@ -5,7 +5,7 @@ These are configs created or copied from another game.
 |--------------|------------------------------------|----------------------------------------------|------------------------------------------------------------------------|---------------------|
 | 45410076.bin | Burnout Revenge                    | Burnout 3: Takedown (4541005B)               | Fixes freeze at first race                                             | JustAnyone#9310     |
 | 4947007A.bin | Dragon Ball Z: Sags                | Sega GT 2002 + JSRF: Jet Set Radio Future (4D53003D) | Fixes freeze at Xbox logo                                      | cruz21579           |
-| 5553003B.bin | Prince of Persia                   | Splinter Cell: Chaos Theory (55530041)       | Fixes black screen                                                     | Kozarovv            |
+| 5553003B.bin | Prince of Persia: Warrior Within   | Custom                                       | Fixes black screen and framerate/VFX issues                            | Kozarovv, Elko992   |
 | 42560002.bin | Chicken Little                     | Sega GT 2002 + JSRF: Jet Set Radio Future (4D53003D) | Fixes crash after Disney logo                                  | cruz21579           |
 | 545100F4.bin | Tak: The Great Juju Challenge      | Sega GT 2002 + JSRF: Jet Set Radio Future (4D53003D) | Fixes crash during intro sequences                             | cruz21579           |
 | 5451008B.bin | Tak 2: The Staff of Dreams         | Mortal Kombat: Deception (4D570019)          | Fixes crash during intro sequences                                     | cruz21579           |
@@ -46,6 +46,8 @@ These are configs created or copied from another game.
 | 534E0008.bin | Metal Slug 5                       | Custom                                       | Fixes texture and freezing issues                                      | Elko992             |
 | 534E0006.bin | The King of Fighters 2002          | Custom                                       | Fixes texture issues, despite being an officially supported title      | Elko992             |
 | 534E0003.bin | The King of Fighters 2003          | Custom                                       | Fixes texture issues, menus still have issues                          | Elko992             |
+| 544D000B.bin | Corvette                           | Custom                                       | Fixes issues                                                           | Elko992             |
+| 4D570012.bin | Fire Blade                         | Custom                                       | Fixes peformance issues and most graphics issues                       | Elko992             |
 
 &nbsp;
 
