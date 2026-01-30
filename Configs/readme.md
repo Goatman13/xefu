@@ -49,6 +49,11 @@ These are configs created or copied from another game. For more details on any g
 | 544D000B.bin | Corvette                           | Custom                                       | Fixes black screen on boot                                             | Elko992             |
 | 4D570012.bin | Fire Blade                         | Custom                                       | Fixes peformance issues and most graphics issues                       | Elko992             |
 | 5655002D.bin | Hunter: The Reckoning Redeemer     | Custom                                       | Fixes disc read error when starting a new game                         | Elko992             |
+| 4B420006.bin | Yager (NTSC)                       | Custom                                       | Fixes heavy graphical issues                                           | Elko992             |
+| 54510006.bin | Yager (PAL)                        | Custom                                       | Fixes heavy graphical issues                                           | Elko992             |
+| 55530036.bin | 187 - Ride or Die                  | Custom                                       | Fixes freeze when creating profile and fixes music not playing         | Elko992             |
+| 42560004.bin | Tim Burton’s The Nightmare Before Christmas: Oogie’s Revenge | Custom             | Fixes freeze at loading screen                                         | Elko992             |
+| 54510004.bin | Dark Summit                        | Custom                                       | Fixes black screen when entering game                                  | Elko992             |
 
 &nbsp;
 
