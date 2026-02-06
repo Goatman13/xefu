@@ -57,9 +57,18 @@ These are configs created or copied from another game. For more details on any g
 | 5443000C.bin | GunGriffon: Allied Strike (PAL)    | Custom                                       | Fixes black screen after Tecmo intro                                   | Elko992             |
 | 54430009.bin | GunGriffon: Allied Strike (NTSC)   | Custom                                       | Fixes black screen after Tecmo intro                                   | Elko992             |
 | 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes fix hard crash on loading screen after Microids logo             | Elko992             |
-| 5345000F.bin | ToeJam & Earl III: Mission to Earth | Custom                                      | Fixes black screen and fatal crash                                     | Stimpy              |
+| 5345000F.bin | ToeJam & Earl III: Mission to Earth | Custom                                      | Fixes black screen and fatal crash                                     | Shantaefan123       |
 | 5454009B.bin | The Warriors                       | Custom                                       | Fixes crash after intro                                                | Elko992             |
 | 4156001E.bin | X-Men Legends                      | Custom                                       | Fixes cutscenes and lighting issues                                    | Elko992             |
+| 41560047.bin | X-Men Legends II                   | Custom                                       | Fixes graphics and audio issues                                        | Elko992             |
+| 4156005C.bin | Marvel: Ultimate Alliance          | Custom                                       | Fixes loading and audio issues                                         | Elko992             |
+| 44430004.bin | Cold War                           | Custom                                       | Fixes black screen                                                     | Elko992             |
+| 42410002.bin | Digimon World 4                    | Custom                                       | Fixes music, audio, graphics, and FMVs                                 | Elko992             |
+| 55530002.bin | Rayman 3: Hoodlum Havoc            | Custom                                       | Fixes missing voices and music and crash after completing a level      | Elko992             |
+| 544D000D.bin | The Haunted Mansion                | Custom                                       | Fixes freeze when saving                                               | Shantaefan123       |
+| 55530018.bin | Beyond Good & Evil                 | Custom                                       | Fixes graphics, freeze during gameplay, and flickering black screens   | Elko992             |
+| 4B4E002D.bin | Castlevania: Curse of Darkness     | Custom                                       | Fixes falling through walls, objects, and doors                        | Elko992             |
+
 
 &nbsp;
 
