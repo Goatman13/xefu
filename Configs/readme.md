@@ -31,7 +31,7 @@ These are configs created or copied from another game. For more details on any g
 | 4D570005.bin | Area 51                            | Custom                                       | Fixes texture issues, but there is minor lighting issues               | Elko992, JLGAMETUBE |
 | 4947001B.bin | Splashdown                         | Brute Force (4D53001E)                       | Fixes water texture issues                                             | Elko992             |
 | 56550027.bin | Red Ninja: End of Honour           | Call of Duty 3 (4156005D)                    | Fixes crash during gameplay or after first mission                     | Elko992             |
-| 54510003.bin | MX 2002 featuring Ricky Carmichael | Call of Duty 3 (4156005D)                    | Fixes crash at Xbox logo (still has random crashes during races)       | Elko992             |
+| 54510003.bin | MX 2002 featuring Ricky Carmichael | Call of Duty 3 (4156005D)                    | Fixes crash at Xbox logo                                               | Elko992             |
 | 53430007.bin | Rolling                            | Psychonauts (4D4A0012)                       | Fixes black screen                                                     | Elko992             |
 | 4541007D.bin | The Godfather                      | Psychonauts (4D4A0012)                       | Slightly improved framerate, fixes burned-in image on screen           | Elko992             |
 | 4B490002.bin | Shikigami no Shiro II              | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992             |
@@ -68,7 +68,8 @@ These are configs created or copied from another game. For more details on any g
 | 544D000D.bin | The Haunted Mansion                | Custom                                       | Fixes freeze when saving                                               | Shantaefan123       |
 | 55530018.bin | Beyond Good & Evil                 | Custom                                       | Fixes graphics, freeze during gameplay, and flickering black screens   | Elko992             |
 | 4B4E002D.bin | Castlevania: Curse of Darkness     | Custom                                       | Fixes falling through walls, objects, and doors                        | Elko992             |
-
+| 41560045.bin | True Crime: New York City          | Custom                                       | Fixes freeze after exiting the police department                       | Elko992             |
+| 41560045.bin | Headhunter: Redemption             | Custom                                       | Fixes fatal crash after loading first level and screen flickering      | Elko992             |
 
 &nbsp;
 
