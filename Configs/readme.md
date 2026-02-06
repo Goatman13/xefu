@@ -54,6 +54,12 @@ These are configs created or copied from another game. For more details on any g
 | 55530036.bin | 187 - Ride or Die                  | Custom                                       | Fixes freeze when creating profile and fixes music not playing         | Elko992             |
 | 42560004.bin | Tim Burton’s The Nightmare Before Christmas: Oogie’s Revenge | Custom             | Fixes freeze at loading screen                                         | Elko992             |
 | 54510004.bin | Dark Summit                        | Custom                                       | Fixes black screen when entering game                                  | Elko992             |
+| 5443000C.bin | GunGriffon: Allied Strike (PAL)    | Custom                                       | Fixes black screen after Tecmo intro                                   | Elko992             |
+| 54430009.bin | GunGriffon: Allied Strike (NTSC)   | Custom                                       | Fixes black screen after Tecmo intro                                   | Elko992             |
+| 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes fix hard crash on loading screen after Microids logo             | Elko992             |
+| 5345000F.bin | ToeJam & Earl III: Mission to Earth | Custom                                      | Fixes black screen and fatal crash                                     | Stimpy              |
+| 5454009B.bin | The Warriors                       | Custom                                       | Fixes crash after intro                                                | Elko992             |
+| 4156001E.bin | X-Men Legends                      | Custom                                       | Fixes cutscenes and lighting issues                                    | Elko992             |
 
 &nbsp;
 
