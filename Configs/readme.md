@@ -73,6 +73,15 @@ These are configs created or copied from another game. For more details on any g
 
 &nbsp;
 
+## Enhancements
+These are configs that go beyond fixing the game. If the game already has an existing config file, rename that file to something else, and then rename the enhancement config to just the title ID numbers (e.g. `56550027.bin`).
+
+| Filename                            | Game Name                          | Game Config Used                             | Effect                                                                 | Credit              |
+|-------------------------------------|------------------------------------|----------------------------------------------|------------------------------------------------------------------------|---------------------|
+| 56550027_invert_horizontal_axis.bin | Red Ninja: End of Honour           | Call of Duty 3 (4156005D)                    | Modification to existing config; inverts horizontal axis               | SignalSpectre       |
+
+&nbsp;
+
 ## Backported Configs
 These are configs found in later xefu files that were back-ported to xefu7.
 
