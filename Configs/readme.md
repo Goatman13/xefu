@@ -70,6 +70,23 @@ These are configs created or copied from another game. For more details on any g
 | 4B4E002D.bin | Castlevania: Curse of Darkness     | Custom                                       | Fixes falling through walls, objects, and doors                        | Elko992             |
 | 41560045.bin | True Crime: New York City          | Custom                                       | Fixes freeze after exiting the police department                       | Elko992             |
 | 41560045.bin | Headhunter: Redemption             | Custom                                       | Fixes fatal crash after loading first level and screen flickering      | Elko992             |
+| 45530019.bin | Project: Snowblind                 | Custom                                       | Fixes crash after main menu and audio. Heavy rendering issues, but game is completable | Elko992 |
+| 45530011.bin | Whiplash                           | Custom                                       | Fixes crash after main menu and audio. Very heavy rendering issues     | Elko992             |
+| 454D0007.bin | Ford Racing 2                      | Custom                                       | Fixes black screen with only HUD visible                               | Elko992             |
+| 4143001A.bin | Gladiator: Sword of Vengeance      | Custom                                       | Fixes freeze after tutorial mission and various graphics issues        | Elko992             |
+| 45410009.bin | Triple Play 2002                   | Custom                                       | Fixes game freezes when ending a game and FMV/Audio stutters           | Elko992             |
+| 55530013.bin | Tom Clancy's Rainbow Six 3         | Custom                                       | Fixes low framerate in some areas and visual issues in corners         | Elko992             |
+| 53430010.bin | Total Overdose: A Gunslinger's Tale in Mexico | Custom                            | Fixes disc read error preventing startup                               | Elko992             |
+| 48500001.bin | Stolen                             | Custom                                       | Fixes freeze at Xbox logo                                              | Elko992             |
+| 49500008.bin | Fallout: Brotherhood of Steel      | Custom                                       | Fixes disc read error preventing startup                               | Elko992             |
+| 53530007.bin | Outlaw Volleyball                  | Custom                                       | Fixes artifacting and heavy framerate/stuttering issues                | Elko992             |
+| 4B4E0019.bin | Dance Dance Revolution Ultramix    | Custom                                       | Fixes graphics and freezing issues                                     | Elko992             |
+| 58490005.bin | Motor Trend presents Lotus Challenge | Custom                                     | Fixes opening FMV and menu black screens                               | Elko992             |
+| 42560001.bin | Tron 2.0: Killer App               | Custom                                       | Fixes glitches in menu screen and freeze on level load                 | Elko992             |
+| 56560025.bin | SWAT: Global Strike Team           | Custom                                       | Fixes crash to Xbox logo after loading a mission                       | Elko992             |
+
+
+
 
 &nbsp;
 
