@@ -24,8 +24,6 @@ These are configs created or copied from another game. For more details on any g
 | 45410028.bin | Need for Speed: Hot Pursuit 2      | Brute Force (4D53001E)                       | Fixes black screen                                                     | Elko992             |
 | 4156004F.bin | American Chopper 2: Full Throttle  | Brute Force (4D53001E)                       | Fixes black screen                                                     | Elko992             |
 | 534300F7.bin | Urban Chaos: Riot Response         | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992             |
-| 53450084.bin | Spartan: Total Warrior (PAL)       | Psychonauts (4D4A0012)                       | Fixes graphics issues and fatal crash                                  | Elko992             |
-| 5345008B.bin | Spartan: Total Warrior (NTSC)      | Psychonauts (4D4A0012)                       | Fixes graphics issues and fatal crash                                  | Elko992             |
 | 53410003.bin | Iron Phoenix                       | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992             |
 | 4D570002.bin | Arctic Thunder                     | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash                                                  | Elko992             |
 | 4D570005.bin | Area 51                            | Custom                                       | Fixes texture issues, but there is minor lighting issues               | Elko992, JLGAMETUBE |
@@ -103,8 +101,8 @@ These are configs created or copied from another game. For more details on any g
 | 57520001.bin | Justice League Heroes              | Custom                                       | Fixes text issues, performance drops, and texture issues               | YamiYugi123         |
 | 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes hard crash on loading screen after Microids logo                 | Elko992, YamiYugi123 |
 | 434D0004.bin | LMA Manager 2003                   | Custom                                       | Fixes freeze at Xbox logo                                              | YamiYugi123         |
-| 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
-| 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
+| 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
+| 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
 | 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes  orcs falling through environment preventing level progression   | Elko992             |
 | 54540091.bin | College Hoops 2K6                  | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A2.bin | NHL 2K6                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
