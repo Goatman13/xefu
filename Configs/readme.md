@@ -16,8 +16,8 @@ These are configs created or copied from another game. For more details on any g
 | 4947001F.bin | Mission Impossible: Operation Surma| Psychonauts (4D4A0012)                       | Fixes freeze at loading screen                                         | Elko992             |
 | 4947003E.bin | Terminator 3: The Redemption       | Psychonauts (4D4A0012)                       | Fixes immediate crashing                                               | Elko992             |
 | 424D0006.bin | Carmen Sandiego                    | Mortal Kombat: Deadly Alliance (4D57000C)    | Fixes Xbox logo crash                                                  | Elko992             |
-| 4C410009.bin | Star Wars Jedi Knight 2 (NTSC)     | Call of Duty 3 (4156005D)                    | Fixes main menu glitch and game speed                                  | Elko992             |
-| 41560015.bin | Star Wars Jedi Knight 2 (PAL)      | Call of Duty 3 (4156005D)                    | Fixes main menu glitch and game speed                                  | Elko992             |
+| 4C410009.bin | Star Wars Jedi Knight 2 (NTSC)     | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
+| 41560015.bin | Star Wars Jedi Knight 2 (PAL)      | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
 | 55530001.bin | Batman Vengeance                   | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash but controller does not work                     | Elko992             |
 | 4B420001.bin | Batman: Dark Tomorrow              | Call of Duty 3 (4156005D)                    | Fixes game speed                                                       | Elko992             |
 | 5454000B.bin | MTV Celebrity Deathmatch           | Call of Duty 3 (4156005D)                    | Fixes 3D models, speed issues, and freeze                              | Elko992             |
@@ -101,10 +101,19 @@ These are configs created or copied from another game. For more details on any g
 | 544D0011.bin | Gene Troopers                      | Custom                                       | Fixes graphical issues                                                 | YamiYugi123         |
 | 4156004B.bin | Gun                                | Custom                                       | Fixes animal animations and other late game bugs                       | YamiYugi123         |
 | 57520001.bin | Justice League Heroes              | Custom                                       | Fixes text issues, performance drops, and texture issues               | YamiYugi123         |
-| 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes hard crash on loading screen after Microids logo                 | Elko992 / YamiYugi123 |
+| 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes hard crash on loading screen after Microids logo                 | Elko992, YamiYugi123 |
 | 434D0004.bin | LMA Manager 2003                   | Custom                                       | Fixes freeze at Xbox logo                                              | YamiYugi123         |
 | 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
 | 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
+| 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes  orcs falling through environment preventing level progression   | Elko992             |
+| 54540091.bin | College Hoops 2K6                  | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
+| 545400A2.bin | NHL 2K6                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
+| 545400AD.bin | NHL 2K7                            | Custom                                       | Fixes game crashing at the 2K logo                                     | Elko992             |
+| 54540092.bin | Major League Baseball 2K6          | Custom                                       | Fixes game crashing at the 2K logo                                     | Elko992             |
+| 545400B1.bin | Major League Baseball 2K7          | Custom                                       | Fixes game crashing at the 2K logo                                     | Elko992             |
+| 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
+| 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
+| 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 
 &nbsp;
 
