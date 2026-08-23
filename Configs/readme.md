@@ -47,7 +47,7 @@ These are configs created or copied from another game. For more details on any g
 | 534E0006.bin | The King of Fighters 2002          | Custom                                       | Fixes texture issues, despite being an officially supported title      | Elko992             |
 | 534E0003.bin | The King of Fighters 2003          | Custom                                       | Fixes texture issues, menus still have issues                          | Elko992             |
 | 544D000B.bin | Corvette                           | Custom                                       | Fixes black screen on boot                                             | Elko992             |
-| 4D570012.bin | Fire Blade                         | Custom                                       | Fixes peformance issues and most graphics issues                       | Elko992             |
+| 4D570012.bin | Fire Blade                         | Custom                                       | Fixes performance issues and most graphics issues                       | Elko992             |
 | 5655002D.bin | Hunter: The Reckoning Redeemer     | Custom                                       | Fixes disc read error when starting a new game                         | Elko992             |
 | 4B420006.bin | Yager (NTSC)                       | Custom                                       | Fixes heavy graphical issues                                           | Elko992             |
 | 54510006.bin | Yager (PAL)                        | Custom                                       | Fixes heavy graphical issues                                           | Elko992             |
@@ -85,11 +85,26 @@ These are configs created or copied from another game. For more details on any g
 | 42560001.bin | Tron 2.0: Killer App               | Custom                                       | Fixes glitches in menu screen and freeze on level load                 | Elko992             |
 | 56560025.bin | SWAT: Global Strike Team           | Custom                                       | Fixes crash to Xbox logo after loading a mission                       | Elko992             |
 | 53450029.bin | Spikeout: Battle Street            | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
-| 5655003F.bin | Scarface: The World is Yours       | Custom                                       | Fixes 16:9 resolution on 1080p                                         | olakase123lol       | Needs to be added to pack
-| 4156003b.bin | DreamWorks Madagascar (English)    | Custom                                       | Fixes fix being unable to save                                         | cruz21579           | Needs to be added to pack
-| 4156003b_Fr-De-Es-Nl.bin | DreamWorks Madagascar (Other languages) | Custom                      | Fixes fix being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579   | Needs to be added to pack
-| 4156003b_It.bin | DreamWorks Madagascar (Italian) | Custom                                       | Fixes fix being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 | Needs to be added to pack
-
+| 5655003F.bin | Scarface: The World is Yours       | Custom                                       | Fixes 16:9 resolution on 1080p                                         | olakase123lol       | 
+| 4156003b.bin | DreamWorks Madagascar (English)    | Custom                                       | Fixes being unable to save                                             | cruz21579           | 
+| 4156003b_Fr-De-Es-Nl.bin | DreamWorks Madagascar (Other languages) | Custom                      | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
+| 4156003b_It.bin | DreamWorks Madagascar (Italian) | Custom                                       | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
+| 41430003.bin | Legends of Wrestling               | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
+| 454100A5.bin | NHL 07                             | Custom                                       | Fixes fatal crash when loading into a match and audio issues           | Elko992             |
+| 56550018.bin | Mace Griffin Bounty Hunter (NTSC)  | Custom                                       | Fixes main menu graphics; high brightness when hit or paused           | Elko992             |
+| 56560011.bin | Mace Griffin Bounty Hunter (PAL)   | Custom                                       | Fixes main menu graphics; high brightness when hit or paused           | Elko992             |
+| 4541002E.bin | Freedom Fighters (NTSC)            | Custom                                       | Fixes missing shadows                                                  | Elko992             |
+| 4541002A.bin | Freedom Fighters (PAL)             | Custom                                       | Fixes missing shadows                                                  | Elko992             |
+| 49470022.bin | Enter the Matrix                   | Custom                                       | Fixes shadows, visual ghosting issues, and other graphical effects     | Elko992             |
+| 5451001E.bin | Disney/Pixar Finding Nemo (PAL)    | Custom                                       | Fixes English PAL version crashing due to "Disc Damaged or Dirty"      | Elko992             |
+| 43430008.bin | Capcom vs. SNK 2 EO                | Custom                                       | Fixes sprite glitches and slow movement when starting a fight          | YamiYugi123         |
+| 544D0011.bin | Gene Troopers                      | Custom                                       | Fixes graphical issues                                                 | YamiYugi123         |
+| 4156004B.bin | Gun                                | Custom                                       | Fixes animal animations and other late game bugs                       | YamiYugi123         |
+| 57520001.bin | Justice League Heroes              | Custom                                       | Fixes text issues, performance drops, and texture issues               | YamiYugi123         |
+| 4D490004.bin | Knight's Apprentice: Memorick's Adventures | Custom                               | Fixes hard crash on loading screen after Microids logo                 | Elko992 / YamiYugi123 |
+| 434D0004.bin | LMA Manager 2003                   | Custom                                       | Fixes freeze at Xbox logo                                              | YamiYugi123         |
+| 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
+| 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | YamiYugi123         |
 
 &nbsp;
 
