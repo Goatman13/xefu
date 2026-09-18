@@ -112,6 +112,7 @@ These are configs created or copied from another game. For more details on any g
 | 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
+| 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700             |
 
 &nbsp;
 
