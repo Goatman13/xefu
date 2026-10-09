@@ -84,9 +84,9 @@ These are configs created or copied from another game. For more details on any g
 | 56560025.bin | SWAT: Global Strike Team           | Custom                                       | Fixes crash to Xbox logo after loading a mission                       | Elko992             |
 | 53450029.bin | Spikeout: Battle Street            | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 5655003F.bin | Scarface: The World is Yours       | Custom                                       | Fixes 16:9 resolution on 1080p                                         | olakase123lol       | 
-| 4156003b.bin | DreamWorks Madagascar (English)    | Custom                                       | Fixes being unable to save                                             | cruz21579           | 
-| 4156003b_Fr-De-Es-Nl.bin | DreamWorks Madagascar (Other languages) | Custom                      | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
-| 4156003b_It.bin | DreamWorks Madagascar (Italian) | Custom                                       | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
+| 4156003B_42447E3A.bin | DreamWorks Madagascar (English)    | Custom                              | Fixes being unable to save                                             | cruz21579           | 
+| 4156003B_4263D130.bin | DreamWorks Madagascar (Other languages) | Custom                         | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
+| 4156003B_4256486C.bin | DreamWorks Madagascar (Italian) | Custom                                 | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
 | 41430003.bin | Legends of Wrestling               | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 454100A5.bin | NHL 07                             | Custom                                       | Fixes fatal crash when loading into a match and audio issues           | Elko992             |
 | 56550018.bin | Mace Griffin Bounty Hunter (NTSC)  | Custom                                       | Fixes main menu graphics; high brightness when hit or paused           | Elko992             |
