@@ -84,9 +84,9 @@ These are configs created or copied from another game. For more details on any g
 | 56560025.bin | SWAT: Global Strike Team           | Custom                                       | Fixes crash to Xbox logo after loading a mission                       | Elko992             |
 | 53450029.bin | Spikeout: Battle Street            | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 5655003F.bin | Scarface: The World is Yours       | Custom                                       | Fixes 16:9 resolution on 1080p                                         | olakase123lol       | 
-| 4156003B_42447E3A.bin | DreamWorks Madagascar (English)    | Custom                              | Fixes being unable to save                                             | cruz21579           | 
-| 4156003B_4263D130.bin | DreamWorks Madagascar (Other languages) | Custom                         | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
-| 4156003B_4256486C.bin | DreamWorks Madagascar (Italian) | Custom                                 | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
+| 4156003B_8C484CA0CE170AEA.bin | DreamWorks Madagascar (English)    | Custom                              | Fixes being unable to save                                             | cruz21579           | 
+| 4156003B_23E1F8E83BD4B43E.bin | DreamWorks Madagascar (Other languages) | Custom                         | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
+| 4156003B_D92FCDA9B1456672.bin | DreamWorks Madagascar (Italian) | Custom                                 | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
 | 41430003.bin | Legends of Wrestling               | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 454100A5.bin | NHL 07                             | Custom                                       | Fixes fatal crash when loading into a match and audio issues           | Elko992             |
 | 56550018.bin | Mace Griffin Bounty Hunter (NTSC)  | Custom                                       | Fixes main menu graphics; high brightness when hit or paused           | Elko992             |
@@ -112,11 +112,11 @@ These are configs created or copied from another game. For more details on any g
 | 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
-| 45410049_412eeb5d.bin | Def Jam: Fight for NY (PAL)  | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
-| 45410049_412f96bb.bin | Def Jam: Fight for NY (NTSC) | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_FA4FD75EC5BF387F.bin | Def Jam: Fight for NY (PAL)  | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_82B4AC028E3CAB21.bin | Def Jam: Fight for NY (NTSC) | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
 | 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700       |
-| 56550041_4313622a.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
-| 56550041_4320378a.bin | Crash Tag Team Racing (PAL)   | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_D031917C46F0B074.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_ABE7EFB989C0BFA9.bin | Crash Tag Team Racing (PAL)   | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
 | 45410014.bin | F1 2002                            | Custom                                       | Fixes Fatality button glitch                                           | Elko992       |
 | 4D530007.bin | Azurik: Rise of Perathia           | Custom                                       | Fixes crash on black screen                                            | Elko992       |
 | 4D530007_3c839991.bin | Azurik: Rise of Perathia (PAL) | Custom                                  | Fixes crash on black screen                                            | Elko992       |
