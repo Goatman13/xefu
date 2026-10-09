@@ -116,7 +116,10 @@ These are configs created or copied from another game. For more details on any g
 | 45410049_412f96bb.bin | Def Jam: Fight for NY (NTSC) | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
 | 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700       |
 | 56550041_4313622a.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
-| 56550041_4320378a.bin | Crash Tag Team Racing (PAL) | Custom                                     | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_4320378a.bin | Crash Tag Team Racing (PAL)   | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 45410014.bin | F1 2002                            | Custom                                       | Fixes Fatality button glitch                                           | Elko992       |
+| 4D530007.bin | Azurik: Rise of Perathia           | Custom                                       | Fixes crash on black screen                                            | Elko992       |
+| 4D530007_3c839991.bin | Azurik: Rise of Perathia (PAL) | Custom                                  | Fixes crash on black screen                                            | Elko992       |
 
 &nbsp;
 
