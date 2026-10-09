@@ -103,7 +103,7 @@ These are configs created or copied from another game. For more details on any g
 | 434D0004.bin | LMA Manager 2003                   | Custom                                       | Fixes freeze at Xbox logo                                              | YamiYugi123         |
 | 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
 | 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
-| 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes  orcs falling through environment preventing level progression   | Elko992             |
+| 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes orcs falling through environment preventing level progression    | Elko992             |
 | 54540091.bin | College Hoops 2K6                  | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A2.bin | NHL 2K6                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AD.bin | NHL 2K7                            | Custom                                       | Fixes game crashing at the 2K logo                                     | Elko992             |
@@ -112,9 +112,11 @@ These are configs created or copied from another game. For more details on any g
 | 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
-| 45410049.bin | Def Jam: Fight for NY              | Custom                                       | Fixes loading hang                                                     | No_Refrigerator9845       |
-| 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700             |
-| 56550041.bin | Crash Tag Team Racing              | Custom                                       | Fixes game hang                                                        | bromurokkk, Elko992       |
+| 45410049_412eeb5d.bin | Def Jam: Fight for NY (PAL)  | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_412f96bb.bin | Def Jam: Fight for NY (NTSC) | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700       |
+| 56550041_4313622a.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_4320378a.bin | Crash Tag Team Racing (PAL) | Custom                                     | Fixes black screen after intros                                        | bromurokkk, Elko992 |
 
 &nbsp;
 
