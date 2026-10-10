@@ -111,21 +111,39 @@ These are configs created or copied from another game. For more details on any g
 | 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
-| 45410049_FA4FD75EC5BF387F.bin | Def Jam: Fight for NY (PAL)  | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
-| 45410049_82B4AC028E3CAB21.bin | Def Jam: Fight for NY (NTSC) | Custom                                    | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_FA4FD75EC5BF387F.bin | Def Jam: Fight for NY (PAL)  | Custom                            | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_82B4AC028E3CAB21.bin | Def Jam: Fight for NY (NTSC) | Custom                            | Fixes infinite loading screen                                          | No_Refrigerator9845 |
 | 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700       |
-| 56550041_D031917C46F0B074.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
-| 56550041_ABE7EFB989C0BFA9.bin | Crash Tag Team Racing (PAL)   | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_D031917C46F0B074.bin | Crash Tag Team Racing (World) | Custom                           | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_ABE7EFB989C0BFA9.bin | Crash Tag Team Racing (PAL)   | Custom                           | Fixes black screen after intros                                        | bromurokkk, Elko992 |
 | 45410014.bin | F1 2002                            | Custom                                       | Fixes Fatality button glitch                                           | Elko992       |
 | 4D530007.bin | Azurik: Rise of Perathia (NTSC)    | Custom                                       | Fixes crash on black screen                                            | Elko992       |
-| 4D530007_a4f7a99b1f48d5c8.bin | Azurik: Rise of Perathia (PAL) | Custom                                  | Fixes crash on black screen                                            | Elko992       |
+| 4D530007_a4f7a99b1f48d5c8.bin | Azurik: Rise of Perathia (PAL) | Custom                          | Fixes crash on black screen                                            | Elko992       |
 | 4D530039.bin | RalliSport Challenge 2             | Custom                                       | Fixes flickering effects/shadows around cars and light issues          | Elko992       |
 | 55530001.bin | Batman Vengeance (NTSC)            | Custom                                       | Fixes crash when starting game                                         | Elko992       |
 | 55530001_402b6c596a7e4a04.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
 | 5553004B.bin | Cold Fear                          | Custom                                       | Fixes crash when starting game                                         | Elko992       |
 | 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
-| 434D0047.bin | Second Sight                       | Custom                                       | Fixes issues with official controller and menu being invisible         | Elko992       |
-
+| 4553000A.bin | TimeSplitters 2 (PAL)              | Custom                                       | Fixes issues with official controller                                  | Elko992       |
+| 4553000A_d6a0927cac82f4ba.bin | TimeSplitters 2 (PAL) | Custom                                   | Fixes issues with official controller                                  | Elko992       |
+| 434D0047_0359A790BB2FA94C.bin | Second Sight (NTSC) | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
+| 434D0047_D7051981AB00EAA6.bin | Second Sight (PAL)  | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
+| 5345000B.bin | Gunvalkyrie                        | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 5345000B_fe499cfce4b45032.bin | Gunvalkyrie (PAL) | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 4C410008.bin | Gladius (NTSC)                     | Custom                                       | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_E54B7C1C882C1A3A.bin | Gladius (PAL - French)  | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_26BFABC87E76726E.bin | Gladius (PAL - English) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_BE30F281E9CFC146.bin | Gladius (PAL - Italian) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_3170CCEB92C698DC.bin | Gladius (PAL - Spanish) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_318F28A3DBAEDD17.bin | Gladius (PAL - German)  | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410002.bin | Star Wars: Starfighter Special Edition   | Custom                                 | Fixes game freeze during first mission                                 | Elko992       |
+| 54530005_46d2e0da9a3663a8.bin | RoboCop (NTSC)    | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 54530005_a182fd70ac574bfc.bin | RoboCop (PAL)     | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 45410004.bin |   SSX Tricky   | SSX 3 (modified)                                                 | Fixes bug preventing being able to save/load                           | D-97          |
+| 54510013.bin | Metal Dungeon (PAL)                | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 58490001.bin | Metal Dungeon (NTSC)               | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 4553000E_21d18312960c5b0f.bin | The Italian Job (NTSC) | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 4553000E_6ccee563d943168b.bin | The Italian Job (PAL)  | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
 
 &nbsp;
 
