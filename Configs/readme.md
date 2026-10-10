@@ -18,7 +18,6 @@ These are configs created or copied from another game. For more details on any g
 | 424D0006.bin | Carmen Sandiego                    | Mortal Kombat: Deadly Alliance (4D57000C)    | Fixes Xbox logo crash                                                  | Elko992             |
 | 4C410009.bin | Star Wars Jedi Knight 2 (NTSC)     | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
 | 41560015.bin | Star Wars Jedi Knight 2 (PAL)      | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
-| 55530001.bin | Batman Vengeance                   | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash but controller does not work                     | Elko992             |
 | 4B420001.bin | Batman: Dark Tomorrow              | Call of Duty 3 (4156005D)                    | Fixes game speed                                                       | Elko992             |
 | 5454000B.bin | MTV Celebrity Deathmatch           | Call of Duty 3 (4156005D)                    | Fixes 3D models, speed issues, and freeze                              | Elko992             |
 | 45410028.bin | Need for Speed: Hot Pursuit 2      | Brute Force (4D53001E)                       | Fixes black screen                                                     | Elko992             |
@@ -84,9 +83,9 @@ These are configs created or copied from another game. For more details on any g
 | 56560025.bin | SWAT: Global Strike Team           | Custom                                       | Fixes crash to Xbox logo after loading a mission                       | Elko992             |
 | 53450029.bin | Spikeout: Battle Street            | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 5655003F.bin | Scarface: The World is Yours       | Custom                                       | Fixes 16:9 resolution on 1080p                                         | olakase123lol       | 
-| 4156003b.bin | DreamWorks Madagascar (English)    | Custom                                       | Fixes being unable to save                                             | cruz21579           | 
-| 4156003b_Fr-De-Es-Nl.bin | DreamWorks Madagascar (Other languages) | Custom                      | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
-| 4156003b_It.bin | DreamWorks Madagascar (Italian) | Custom                                       | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
+| 4156003B_8C484CA0CE170AEA.bin | DreamWorks Madagascar (English)    | Custom                              | Fixes being unable to save                                             | cruz21579           | 
+| 4156003B_23E1F8E83BD4B43E.bin | DreamWorks Madagascar (Other languages) | Custom                         | Fixes being unable to save (must rename and replace 4156003b.bin to apply) | cruz21579       | 
+| 4156003B_D92FCDA9B1456672.bin | DreamWorks Madagascar (Italian) | Custom                                 | Fixes being unable to save and freezing issues (must rename and replace 4156003b.bin to apply) | cruz21579 |
 | 41430003.bin | Legends of Wrestling               | Custom                                       | Fixes crash at Xbox logo                                               | Elko992             |
 | 454100A5.bin | NHL 07                             | Custom                                       | Fixes fatal crash when loading into a match and audio issues           | Elko992             |
 | 56550018.bin | Mace Griffin Bounty Hunter (NTSC)  | Custom                                       | Fixes main menu graphics; high brightness when hit or paused           | Elko992             |
@@ -103,7 +102,7 @@ These are configs created or copied from another game. For more details on any g
 | 434D0004.bin | LMA Manager 2003                   | Custom                                       | Fixes freeze at Xbox logo                                              | YamiYugi123         |
 | 5345008B.bin | Spartan: Total Warrior (NTSC)      | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
 | 53450084.bin | Spartan: Total Warrior (PAL)       | Custom                                       | Fixes glitching models in cutscene and freezes after cutscene          | Elko992, YamiYugi123         |
-| 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes  orcs falling through environment preventing level progression   | Elko992             |
+| 45410010.bin | The Lord of the Rings: The Two Towers | Custom                                    | Fixes orcs falling through environment preventing level progression    | Elko992             |
 | 54540091.bin | College Hoops 2K6                  | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A2.bin | NHL 2K6                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AD.bin | NHL 2K7                            | Custom                                       | Fixes game crashing at the 2K logo                                     | Elko992             |
@@ -112,7 +111,48 @@ These are configs created or copied from another game. For more details on any g
 | 54540090.bin | NBA 2K6 (NTSC)                     | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400A1.bin | NBA 2K6 (PAL)                      | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
 | 545400AE.bin | NBA 2K7                            | Custom                                       | Fixes game crashing at the Visual Concepts logo                        | Elko992             |
-| 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700             |
+| 45410049_FA4FD75EC5BF387F.bin | Def Jam: Fight for NY (PAL)  | Custom                            | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 45410049_82B4AC028E3CAB21.bin | Def Jam: Fight for NY (NTSC) | Custom                            | Fixes infinite loading screen                                          | No_Refrigerator9845 |
+| 4D570029.bin | Mortal Kombat: Shaolin Monks       | Black (45410083)                             | Fixes Fatality button glitch                                           | jcamarinha700       |
+| 56550041_D031917C46F0B074.bin | Crash Tag Team Racing (World) | Custom                           | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 56550041_ABE7EFB989C0BFA9.bin | Crash Tag Team Racing (PAL)   | Custom                           | Fixes black screen after intros                                        | bromurokkk, Elko992 |
+| 45410014.bin | F1 2002                            | Custom                                       | Fixes Fatality button glitch                                           | Elko992       |
+| 4D530007.bin | Azurik: Rise of Perathia (NTSC)    | Custom                                       | Fixes crash on black screen                                            | Elko992       |
+| 4D530007_a4f7a99b1f48d5c8.bin | Azurik: Rise of Perathia (PAL) | Custom                          | Fixes crash on black screen                                            | Elko992       |
+| 4D530039.bin | RalliSport Challenge 2             | Custom                                       | Fixes flickering effects/shadows around cars and light issues          | Elko992       |
+| 55530001.bin | Batman Vengeance (NTSC)            | Custom                                       | Fixes crash when starting game                                         | Elko992       |
+| 55530001_402B6C596A7E04A0.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
+| 5553004B.bin | Cold Fear                          | Custom                                       | Fixes crash when starting game                                         | Elko992       |
+| 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
+| 4553000A.bin | TimeSplitters 2 (PAL)              | Custom                                       | Fixes issues with official controller                                  | Elko992       |
+| 4553000A_d6a0927cac82f4ba.bin | TimeSplitters 2 (PAL) | Custom                                   | Fixes issues with official controller                                  | Elko992       |
+| 4553000A_60B290385FC5EF28.bin | TimeSplitters 2 (PAL Xbox Classics re-release) | Custom          | Fixes issues with official controller                                  | Elko992       |
+| 434D0047_0359A790BB2FA94C.bin | Second Sight (NTSC) | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
+| 434D0047_D7051981AB00EAA6.bin | Second Sight (PAL)  | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
+| 5345000B.bin | Gunvalkyrie                        | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 5345000B_fe499cfce4b45032.bin | Gunvalkyrie (NTSC-J) | Custom                                    | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 49470017.bin | Gunvalkyrie (PAL)                  | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 4C410008.bin | Gladius (NTSC)                     | Custom                                       | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_E54B7C1C882C1A3A.bin | Gladius (PAL - French)  | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_26BFABC87E76726E.bin | Gladius (PAL - English) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_BE30F281E9CFC146.bin | Gladius (PAL - Italian) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_3170CCEB92C698DC.bin | Gladius (PAL - Spanish) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410008_318F28A3DBAEDD17.bin | Gladius (PAL - German)  | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
+| 4C410002.bin | Star Wars: Starfighter Special Edition   | Custom                                 | Fixes game freeze during first mission                                 | Elko992       |
+| 54530005_46d2e0da9a3663a8.bin | RoboCop (NTSC)    | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 54530005_a182fd70ac574bfc.bin | RoboCop (PAL)     | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 45410004.bin |   SSX Tricky   | SSX 3 (modified)                                                 | Fixes bug preventing being able to save/load                           | D-97          |
+| 54510013.bin | Metal Dungeon (PAL)                | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 58490001.bin | Metal Dungeon (NTSC)               | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 4553000E_21d18312960c5b0f.bin | The Italian Job (NTSC) | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 4553000E_6ccee563d943168b.bin | The Italian Job (PAL)  | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 41560026.bin | Tenchu: Return From Darkness (NTSC)   | Custom                                    | Fixes cutscenes and executions                                         | Elko992       |
+| 46530005.bin | Tenchu: Return From Darkness (NTSC-J) | Custom                                    | Fixes cutscenes and executions                                         | Elko992       |
+| 41560036_6F72F34F3CF75448.bin | Tenchu: Return From Darkness (PAL) | Custom                      | Fixes cutscenes and executions                                         | Elko992       |
+| 41560036_382D9D2041B7EC54.bin | Tenchu: Return From Darkness (PAL - French) | Custom             | Fixes cutscenes and executions                                         | Elko992       |
+| 56550016.bin | Bruce Lee: Quest of the Dragon (NTSC) | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
+| 56560002.bin | Bruce Lee: Quest of the Dragon (PAL)  | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
+| 55530060.bin | Far Cry Instincts: Evolution       | Custom                                       | Fixes freeze at first level                                            | D-97          |
 
 &nbsp;
 
