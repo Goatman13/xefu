@@ -124,7 +124,7 @@ These are configs created or copied from another game. For more details on any g
 | 55530001_402B6C596A7E04A0.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
 | 5553004B.bin | Cold Fear                          | Custom                                       | Fixes crash when starting game                                         | Elko992       |
 | 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
-| 4553000A.bin | TimeSplitters 2 (PAL)              | Custom                                       | Fixes issues with official controller                                  | Elko992       |
+| 4553000A.bin | TimeSplitters 2                    | Custom                                       | Fixes issues with official controller                                  | Elko992       |
 | 4553000A_d6a0927cac82f4ba.bin | TimeSplitters 2 (PAL) | Custom                                   | Fixes issues with official controller                                  | Elko992       |
 | 4553000A_60B290385FC5EF28.bin | TimeSplitters 2 (PAL Xbox Classics re-release) | Custom          | Fixes issues with official controller                                  | Elko992       |
 | 434D0047_0359A790BB2FA94C.bin | Second Sight (NTSC) | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
