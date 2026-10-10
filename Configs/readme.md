@@ -126,6 +126,7 @@ These are configs created or copied from another game. For more details on any g
 | 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
 | 4553000A.bin | TimeSplitters 2 (PAL)              | Custom                                       | Fixes issues with official controller                                  | Elko992       |
 | 4553000A_d6a0927cac82f4ba.bin | TimeSplitters 2 (PAL) | Custom                                   | Fixes issues with official controller                                  | Elko992       |
+| 4553000A_60B290385FC5EF28.bin | TimeSplitters 2 (PAL Xbox Classics re-release) | Custom          | Fixes issues with official controller                                  | Elko992       |
 | 434D0047_0359A790BB2FA94C.bin | Second Sight (NTSC) | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
 | 434D0047_D7051981AB00EAA6.bin | Second Sight (PAL)  | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
 | 5345000B.bin | Gunvalkyrie                        | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
@@ -145,6 +146,13 @@ These are configs created or copied from another game. For more details on any g
 | 58490001.bin | Metal Dungeon (NTSC)               | Custom                                       | Fixes crash to Xbox logo after intro                                   | Elko992       |
 | 4553000E_21d18312960c5b0f.bin | The Italian Job (NTSC) | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
 | 4553000E_6ccee563d943168b.bin | The Italian Job (PAL)  | Custom                                  | Fixes crash to Xbox logo after intro                                   | Elko992       |
+| 41560026.bin | Tenchu: Return From Darkness (NTSC)   | Custom                                    | Fixes cutscenes and executions                                         | Elko992       |
+| 46530005.bin | Tenchu: Return From Darkness (NTSC-J) | Custom                                    | Fixes cutscenes and executions                                         | Elko992       |
+| 41560036_6F72F34F3CF75448.bin | Tenchu: Return From Darkness (PAL) | Custom                      | Fixes cutscenes and executions                                         | Elko992       |
+| 41560036_382D9D2041B7EC54.bin | Tenchu: Return From Darkness (PAL - French) | Custom             | Fixes cutscenes and executions                                         | Elko992       |
+| 56550016.bin | Bruce Lee: Quest of the Dragon (NTSC) | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
+| 56560002.bin | Bruce Lee: Quest of the Dragon (PAL)  | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
+| 55530060.bin | Far Cry Instincts: Evolution       | Custom                                       | Fixes freeze at first level                                            | D-97          |
 
 &nbsp;
 
