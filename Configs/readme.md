@@ -18,7 +18,6 @@ These are configs created or copied from another game. For more details on any g
 | 424D0006.bin | Carmen Sandiego                    | Mortal Kombat: Deadly Alliance (4D57000C)    | Fixes Xbox logo crash                                                  | Elko992             |
 | 4C410009.bin | Star Wars Jedi Knight 2 (NTSC)     | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
 | 41560015.bin | Star Wars Jedi Knight 2 (PAL)      | Call of Duty 3 (4156005D)                    | Fixes main menu glitch, game running too fast, and performance issues  | Elko992, YamiYugi123 |
-| 55530001.bin | Batman Vengeance                   | Psychonauts (4D4A0012)                       | Fixes Xbox logo crash but controller does not work                     | Elko992             |
 | 4B420001.bin | Batman: Dark Tomorrow              | Call of Duty 3 (4156005D)                    | Fixes game speed                                                       | Elko992             |
 | 5454000B.bin | MTV Celebrity Deathmatch           | Call of Duty 3 (4156005D)                    | Fixes 3D models, speed issues, and freeze                              | Elko992             |
 | 45410028.bin | Need for Speed: Hot Pursuit 2      | Brute Force (4D53001E)                       | Fixes black screen                                                     | Elko992             |
@@ -118,8 +117,15 @@ These are configs created or copied from another game. For more details on any g
 | 56550041_D031917C46F0B074.bin | Crash Tag Team Racing (World) | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
 | 56550041_ABE7EFB989C0BFA9.bin | Crash Tag Team Racing (PAL)   | Custom                                   | Fixes black screen after intros                                        | bromurokkk, Elko992 |
 | 45410014.bin | F1 2002                            | Custom                                       | Fixes Fatality button glitch                                           | Elko992       |
-| 4D530007.bin | Azurik: Rise of Perathia           | Custom                                       | Fixes crash on black screen                                            | Elko992       |
-| 4D530007_3c839991.bin | Azurik: Rise of Perathia (PAL) | Custom                                  | Fixes crash on black screen                                            | Elko992       |
+| 4D530007.bin | Azurik: Rise of Perathia (NTSC)    | Custom                                       | Fixes crash on black screen                                            | Elko992       |
+| 4D530007_a4f7a99b1f48d5c8.bin | Azurik: Rise of Perathia (PAL) | Custom                                  | Fixes crash on black screen                                            | Elko992       |
+| 4D530039.bin | RalliSport Challenge 2             | Custom                                       | Fixes flickering effects/shadows around cars and light issues          | Elko992       |
+| 55530001.bin | Batman Vengeance (NTSC)            | Custom                                       | Fixes crash when starting game                                         | Elko992       |
+| 55530001_402b6c596a7e4a04.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
+| 5553004B.bin | Cold Fear                          | Custom                                       | Fixes crash when starting game                                         | Elko992       |
+| 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
+| 434D0047.bin | Second Sight                       | Custom                                       | Fixes issues with official controller and menu being invisible         | Elko992       |
+
 
 &nbsp;
 
