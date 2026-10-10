@@ -152,7 +152,7 @@ These are configs created or copied from another game. For more details on any g
 | 41560036_382D9D2041B7EC54.bin | Tenchu: Return From Darkness (PAL - French) | Custom             | Fixes cutscenes and executions                                         | Elko992       |
 | 56550016.bin | Bruce Lee: Quest of the Dragon (NTSC) | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
 | 56560002.bin | Bruce Lee: Quest of the Dragon (PAL)  | Custom                                    | Fixes freeze at loading screen                                         | Elko992       |
-| 55530060.bin | Far Cry Instincts: Evolution       | Custom                                       | Fixes freeze at first level                                            | D-97          |
+| 55530060.bin | Far Cry Instincts: Evolution       | Far Cry Instincts (55530008)                 | Fixes freeze at first level                                            | D-97          |
 
 &nbsp;
 
