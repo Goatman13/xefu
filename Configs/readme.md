@@ -121,7 +121,7 @@ These are configs created or copied from another game. For more details on any g
 | 4D530007_a4f7a99b1f48d5c8.bin | Azurik: Rise of Perathia (PAL) | Custom                          | Fixes crash on black screen                                            | Elko992       |
 | 4D530039.bin | RalliSport Challenge 2             | Custom                                       | Fixes flickering effects/shadows around cars and light issues          | Elko992       |
 | 55530001.bin | Batman Vengeance (NTSC)            | Custom                                       | Fixes crash when starting game                                         | Elko992       |
-| 55530001_402b6c596a7e4a04.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
+| 55530001_402B6C596A7E04A0.bin | Batman Vengeance (PAL) | Custom                                  | Fixes crash when starting game                                         | Elko992       |
 | 5553004B.bin | Cold Fear                          | Custom                                       | Fixes crash when starting game                                         | Elko992       |
 | 45410066.bin | TimeSplitters: Future Perfect      | Custom                                       | Fixes issues with official controller and gun texture issue            | Elko992       |
 | 4553000A.bin | TimeSplitters 2 (PAL)              | Custom                                       | Fixes issues with official controller                                  | Elko992       |
@@ -129,7 +129,8 @@ These are configs created or copied from another game. For more details on any g
 | 434D0047_0359A790BB2FA94C.bin | Second Sight (NTSC) | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
 | 434D0047_D7051981AB00EAA6.bin | Second Sight (PAL)  | Custom                                     | Fixes issues with official controller and menu being invisible         | Elko992       |
 | 5345000B.bin | Gunvalkyrie                        | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
-| 5345000B_fe499cfce4b45032.bin | Gunvalkyrie (PAL) | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 5345000B_fe499cfce4b45032.bin | Gunvalkyrie (NTSC-J) | Custom                                    | Fixes controller issues and red screen when boosting                   | Elko992       |
+| 49470017.bin | Gunvalkyrie (PAL)                  | Custom                                       | Fixes controller issues and red screen when boosting                   | Elko992       |
 | 4C410008.bin | Gladius (NTSC)                     | Custom                                       | Fixes infinite loading screen at start                                 | Elko992       |
 | 4C410008_E54B7C1C882C1A3A.bin | Gladius (PAL - French)  | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
 | 4C410008_26BFABC87E76726E.bin | Gladius (PAL - English) | Custom                                 | Fixes infinite loading screen at start                                 | Elko992       |
